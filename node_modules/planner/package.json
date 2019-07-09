@@ -1,0 +1,24 @@
+{
+  "name": "planner",
+  "version": "0.0.1",
+  "description": "A command-line planning tool that uses Agile techniques to make you awesome",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juniorbird/planner.git"
+  },
+  "keywords": [
+    "productivity",
+    "agile",
+    "kanban"
+  ],
+  "author": "wade@wadearmstrong.com",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/juniorbird/planner/issues"
+  },
+  "homepage": "https://github.com/juniorbird/planner#readme"
+}
