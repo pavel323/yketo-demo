@@ -99,7 +99,7 @@
     "redux-saga": "0.16.0",
     "strict-rate-limiter": "0.2.0",
     "uglifyjs-webpack-plugin": "1.2.5",
-    "validator": "^10.0.0",
+    "validator": "^13.7.0",
     "winston": "2.4.2",
     "xss": "0.3.8",
     "yarn": "^1.6.0"
